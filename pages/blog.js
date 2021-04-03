@@ -1,5 +1,3 @@
-
-
 const blog = () => {
     return (
         <div>
